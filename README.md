@@ -51,7 +51,7 @@ No SageMaker Canvas:
 - Tipo de problema: Regressão
 - Variável alvo (Target):
    - QUANTIDADE_ESTOQUE
-Variáveis de entrada (Features):
+- Variáveis de entrada (Features):
   - PRECO
   - FLAG_PROMOCAO
   - DATA_EVENTO
