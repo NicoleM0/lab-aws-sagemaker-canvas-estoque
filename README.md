@@ -1,4 +1,4 @@
-📦 Previsão de Estoque Inteligente na AWS com SageMaker Canvas
+# 📦 Previsão de Estoque Inteligente na AWS com SageMaker Canvas
 
 Este repositório contém a solução desenvolvida para o Desafio de Projeto da DIO:
 
