@@ -50,7 +50,7 @@ Esse conjunto de dados permite analisar o impacto de preço e promoções na var
 No SageMaker Canvas:
 - Tipo de problema: Regressão
 - Variável alvo (Target):
-  *QUANTIDADE_ESTOQUE
+   - QUANTIDADE_ESTOQUE
 Variáveis de entrada (Features):
   - PRECO
   - FLAG_PROMOCAO
